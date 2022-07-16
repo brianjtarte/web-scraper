@@ -13,13 +13,13 @@
 
 
 #### Links and Resources:
-
+[Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs3/documentation.html#The%20basic%20find%20method:%20findAll(name,%20attrs,%20recursive,%20text,%20limit,%20**kwargs))
 #### Setup:
 
 **Initialize/Run App**:
 
-python web_scraper/web_scraper.py
+ - python web_scraper/web_scraper.py
 
 **Tests**
-
+ - No tests of note
 
